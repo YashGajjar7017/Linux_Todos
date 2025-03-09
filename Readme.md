@@ -5,3 +5,4 @@ then after you need to install the main pacakge file,
 where your need to customed your data according to yourself
 
 ```Step2 : Python3 Todos.py```
+```Pip version : 2.90```
